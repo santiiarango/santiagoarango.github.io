@@ -1,0 +1,29 @@
+table {
+  border-spacing: 5px;
+}
+body {
+	background-color:gray
+} 
+#menu_navegacion{
+
+	text-align: center;
+}
+
+#menu_navegacion table, #menu_navegacion th{
+
+}
+
+#menu_navegacion table{
+	margin: auto;
+	width: 35%;
+}
+   a:link {
+        color:white;
+                }
+            
+        a:visited {
+        color:goldenrod;
+        }
+        a: hover{
+        color:black;}
+
